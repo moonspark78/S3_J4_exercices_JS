@@ -1,4 +1,6 @@
-let squares = document.querySelectorAll('.container .square');
+// C'est un tableau
+let squares = document.querySelectorAll('.container .square'); 
+
 let index = 0;
 
 squares[index].classList.add('active');
