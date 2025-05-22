@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    gap: 20px;
+}
+
+.square{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+.active {
+    background-color: green;
+}
